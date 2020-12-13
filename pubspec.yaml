@@ -44,7 +44,7 @@ flutter_icons:
 flutter_native_splash:
   image: assets/images/dogs-vs-cats.png
   color: "263238"
-  fill: true
+#  fill: true
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
